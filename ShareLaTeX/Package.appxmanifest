@@ -8,14 +8,14 @@
 
   <Identity
     Name="c4e45cdf-7212-425c-b974-016c2a270537"
-    Publisher="CN=me"
+    Publisher="CN=uxsoft"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="c4e45cdf-7212-425c-b974-016c2a270537" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>ShareLaTeX</DisplayName>
-    <PublisherDisplayName>me</PublisherDisplayName>
+    <PublisherDisplayName>uxsoft</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
